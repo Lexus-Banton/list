@@ -1,0 +1,1 @@
+export const shows = ['DBZ', 'Black Clover', 'Arcane', 'Fate']; 
